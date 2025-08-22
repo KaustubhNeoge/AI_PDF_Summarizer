@@ -17,9 +17,8 @@ A web app that reads PDFs and generates detailed summaries using AI (Groq API). 
 ## **Folder Structure**
 
 AI_PDF_Summarizer/
-│
 
-├─ ai-pdf-summarizer/
+│ ├─ ai-pdf-summarizer/
 
 │ ├─ app.py # Streamlit main app
 
