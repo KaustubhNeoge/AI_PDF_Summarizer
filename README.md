@@ -1,3 +1,5 @@
+Link: https://kaustubhneoge-ai-pdf-summarizer-ai-pdf-summarizerapp-9cfttw.streamlit.app/
+
 # AI PDF Summarizer
 
 A web app that reads PDFs and generates detailed summaries using AI (Groq API). Built with **Python** and **Streamlit**, this project demonstrates practical use of generative AI for document understanding.
